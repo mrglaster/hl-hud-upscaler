@@ -6,13 +6,54 @@ The Half-Life 25th Anniversary update introduced support for higher screen resol
 
 This utility automates the process of generating updated `.spr` and `.txt` files, ensuring compatibility with the new resolution support and streamlining the workflow.
 
-#### Weapon Display Before Updating Sprites
+#### weapon_357.txt before 25th anniversary update 
 
-![Before Update](https://github.com/user-attachments/assets/b6e0a7e4-c97e-4a2d-82e2-855199d7deb4)
+```
+12
+weapon         320 320hud1   0   80   80   20
+weapon_s      320 320hud1   0   100   80   20
+ammo         320 320hud2   18   16   18   18
+crosshair      320 crosshairs   48   0   24   24
+autoaim         320 crosshairs   24   72   24   24
+zoom         320 crosshairs   96   0   24   24
+weapon         640 640hud1   0   90   170   45
+weapon_s      640 640hud4   0   90   170   45
+ammo         640 640hud7   24   72   24   24
+crosshair      640 crosshairs   48   0   24   24
+autoaim         640 crosshairs   24   72   24   24
+zoom         640 crosshairs   96   0   24   24
+```
 
-#### Weapon Display After Updating Sprites
+#### weapon_357.txt after 25th anniversary update
 
-![After Update](https://github.com/user-attachments/assets/d2a4cd4a-1d05-411f-bcf1-99a85c8c2971)
+```
+24
+weapon         2560 2560/weapon_357_weapon   0   0   510   135
+weapon_s      2560 2560/weapon_357_weapon_s   0   0   510   135
+ammo         2560 2560/weapon_357_ammo   0   0   72   72
+crosshair      2560 2560crosshairs   144   0   72   72
+autoaim         2560 2560crosshairs   72   216   72   72
+zoom         2560 2560crosshairs   288   0   72   72
+weapon         1280 1280/weapon_357_weapon   0   0   340   90
+weapon_s      1280 1280/weapon_357_weapon_s   0   0   340   90
+ammo         1280 1280/weapon_357_ammo   0   0   48   48
+crosshair      1280 1280crosshairs   96   0   48   48
+autoaim         1280 1280crosshairs   48   144   48   48
+zoom         1280 1280crosshairs   192   0   48   48
+weapon         640 640hud1   0   90   170   45
+weapon_s      640 640hud4   0   90   170   45
+ammo         640 640hud7   24   72   24   24
+crosshair      640 crosshairs   48   0   24   24
+autoaim         640 crosshairs   24   72   24   24
+zoom         640 crosshairs   96   0   24   24
+weapon         320 320hud1   0   80   80   20
+weapon_s      320 320hud1   0   100   80   20
+ammo         320 320hud2   18   16   18   18
+crosshair      320 crosshairs   48   0   24   24
+autoaim         320 crosshairs   24   72   24   24
+zoom         320 crosshairs   96   0   24   24
+```
+
 
 ---
 
@@ -53,6 +94,16 @@ Follow these steps to configure the environment for the utility:
    ![Model List](https://github.com/user-attachments/assets/1d7f80ae-0e2c-44fc-ad7d-9359193497b3)
 
 ---
+
+### Comparation 
+
+#### Weaponmod gun before the utlity was used
+
+![Before Update](https://github.com/user-attachments/assets/b6e0a7e4-c97e-4a2d-82e2-855199d7deb4)
+
+#### Weaponmod gun after the utlity was used
+
+![After Update](https://github.com/user-attachments/assets/d2a4cd4a-1d05-411f-bcf1-99a85c8c2971)
 
 ### Links 
 
