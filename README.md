@@ -53,3 +53,11 @@ Follow these steps to configure the environment for the utility:
    ![Model List](https://github.com/user-attachments/assets/1d7f80ae-0e2c-44fc-ad7d-9359193497b3)
 
 ---
+
+### Links 
+
+- https://github.com/ValveSoftware/halflife/blob/master/devtools/image_to_spr.py
+- https://developer.valvesoftware.com/wiki/SPR
+- https://twhl.info/wiki/page/hud.txt_and_weapon_*.txt
+- http://infotex58.ru/forum/index.php?topic=1135.0
+- https://pypi.org/project/super-image/
