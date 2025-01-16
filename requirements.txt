@@ -1,0 +1,5 @@
+huggingface-hub==0.25.2
+colortrans==1.0.0
+numpy
+Pillow
+super_image==0.1.7
