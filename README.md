@@ -68,8 +68,8 @@ Follow these steps to configure the environment for the utility:
    ```bash
    pip3 install -r requirements.txt
    ```
-
-4. Configuration is complete! You are now ready to use the utility.
+4. The utility can automatically use paths to the standard highres sprites for ammo and crosshairs added in the HL25th Anniversary Update (it will be done if your sprite uses their default versions in resolution 640). To avoid issues, make sure to add them to the server's precache.
+5. Configuration is complete! You are now ready to use the utility.
 
 ---
 
